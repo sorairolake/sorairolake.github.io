@@ -4,7 +4,7 @@ SorairoLake's portfolio page.
 
 == URL
 
-https://sorairolake.github.io
+https://sorairolake.github.io/
 
 == License
 
@@ -12,4 +12,4 @@ Copyright (C) 2021 Shun Sakai
 
 This website is distributed under the terms of the _Creative Commons Attribution-NoDerivatives 4.0 International Public License_ (_CC BY-ND 4.0_).
 
-See link:COPYING[] for details.
+See link:COPYING[] for more details.
