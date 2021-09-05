@@ -5,11 +5,6 @@ Files: *
 Copyright: 2021 Shun Sakai
 License: CC-BY-ND-4.0
 
-Files: script/main.js
-       style/*
-Copyright: None
-License: CC0-1.0
-
 Files: image/profile.svg
 Copyright: None
 License: CC0-1.0
