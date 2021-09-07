@@ -1,5 +1,7 @@
 = sorairolake.github.io
 
+image::https://github.com/sorairolake/sorairolake.github.io/workflows/CI/badge.svg[CI, link=https://github.com/sorairolake/sorairolake.github.io/actions]
+
 SorairoLake's portfolio page.
 
 == URL
