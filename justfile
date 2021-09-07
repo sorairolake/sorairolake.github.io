@@ -7,16 +7,10 @@ alias all := default
 # Run default recipe
 default: fmt lint
 
-# Run the code formatter in bulk
-@fmt: fmt-html
-
-# Run the code formatter for HTML
-@fmt-html:
+# Run the code formatter
+@fmt:
     prettier -w index.html
 
-# Run the linter in bulk
-@lint: lint-html
-
-# Run the linter for HTML
-@lint-html:
+# Run the linter
+@lint:
     htmlhint index.html
