@@ -9,8 +9,8 @@ default: fmt lint
 
 # Run the code formatter
 @fmt:
-    prettier -w index.html
+    npx prettier -w index.html
 
 # Run the linter
 @lint:
-    htmlhint index.html
+    npx htmlhint index.html
