@@ -11,5 +11,6 @@ https://sorairolake.github.io/
 Copyright (C) 2021 Shun Sakai
 
 This website is distributed under the terms of the _Creative Commons Attribution-NoDerivatives 4.0 International Public License_ (_CC BY-ND 4.0_).
+In addition, some files are distributed under the terms of the _CC0 1.0 Universal_ (_CC0 1.0_).
 
-See link:COPYING[] for more details.
+See link:COPYING[], link:license/CC-BY-ND-4.0[CC-BY-ND-4.0] and link:license/CC0-1.0[CC0-1.0] for more details.
