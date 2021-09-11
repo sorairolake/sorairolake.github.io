@@ -14,3 +14,7 @@ default: fmt lint
 # Run the linter
 @lint:
     npx htmlhint index.html
+
+# Run the linter for GitHub Actions workflow files
+@lint-github-actions:
+    actionlint
