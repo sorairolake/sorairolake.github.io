@@ -1,6 +1,12 @@
 name: CI
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - '**'
+    tags-ignore:
+      - '**'
+  pull_request:
 
 jobs:
   fmt:
@@ -13,6 +19,10 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: 16
+    - name: Install dependencies
+      run: |
+        npm install prettier
+        npx prettier -v
     - name: Check code formatted
       run: npx prettier -c index.html
 
@@ -26,5 +36,9 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: 16
+    - name: Install dependencies
+      run: |
+        npm install htmlhint
+        npx htmlhint -V
     - name: Check no lint warnings
       run: npx htmlhint index.html
