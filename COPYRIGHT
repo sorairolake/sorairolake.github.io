@@ -9,7 +9,7 @@ Files: justfile
 Copyright: None
 License: CC0-1.0
 
-Files: image/profile.svg
+Files: assets/image/*
 Copyright: None
 License: CC0-1.0
 Comment: Taken from the Rustacean.net (https://www.rustacean.net/assets/rustacean-flat-noshadow.svg)

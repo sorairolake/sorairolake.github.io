@@ -1,0 +1,24 @@
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 10
+
+[[main]]
+name = "プロジェクト"
+pageRef = "projects"
+weight = 20
+
+[[main]]
+name = "連絡先"
+pageRef = "contact"
+weight = 30
+
+[[main]]
+name = "リンク"
+pageRef = "links"
+weight = 40
+
+[[main]]
+name = "ブログ"
+url = "https://sorairolake.github.io/blog/"
+weight = 50

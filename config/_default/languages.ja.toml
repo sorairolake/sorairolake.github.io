@@ -1,0 +1,19 @@
+languageCode = "ja"
+languageName = "日本語"
+dateFormat = "2006-01-02"
+title = "SorairoLake"
+description = "SorairoLakeの紹介ページ。"
+copyright = """\
+  &copy; 2021&ndash;2022 Shun Sakai \
+  &middot; \
+  [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)\
+  """
+
+[author]
+name = "SorairoLake"
+image = "image/profile.png"
+headline = "A programmer from Nagano, Japan."
+links = [
+  { github = "https://github.com/sorairolake" },
+  { gitlab = "https://gitlab.com/sorairolake" }
+]
