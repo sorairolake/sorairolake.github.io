@@ -1,0 +1,6 @@
+theme = "congo"
+baseURL = "https://sorairolake.github.io/"
+defaultContentLanguage = "ja"
+
+[outputs]
+home = ["HTML", "JSON", "RSS"]
