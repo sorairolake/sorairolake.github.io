@@ -9,6 +9,22 @@ on:
   pull_request:
 
 jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-20.04
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        submodules: true
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.4.13
+      with:
+        hugo-version: 0.101.0
+    - name: Build a website
+      run: hugo
+
   fmt:
     name: Format
     runs-on: ubuntu-20.04
@@ -24,7 +40,7 @@ jobs:
         npm install prettier
         npx prettier -v
     - name: Check code formatted
-      run: npx prettier -c index.html
+      run: npx prettier -c content
 
   lint:
     name: Lint
@@ -38,7 +54,7 @@ jobs:
         node-version: 16
     - name: Install dependencies
       run: |
-        npm install htmlhint
-        npx htmlhint -V
+        npm install markdownlint-cli
+        npx markdownlint -V
     - name: Check no lint warnings
-      run: npx htmlhint index.html
+      run: npx markdownlint content
