@@ -1,2 +1,13 @@
+colorScheme = "ocean"
+
+[footer]
+showAppearanceSwitcher = true
+
 [homepage]
 layout = "profile"
+
+[article]
+showDate = false
+showAuthor = false
+showPagination = false
+showReadingTime = false
