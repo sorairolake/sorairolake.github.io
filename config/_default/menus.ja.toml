@@ -22,3 +22,8 @@ weight = 40
 name = "ブログ"
 url = "https://sorairolake.github.io/blog/"
 weight = 50
+
+[[main]]
+name = "このウェブサイトについて"
+pageRef = "about-website"
+weight = 60
