@@ -5,15 +5,19 @@
 alias all := default
 
 # Run default recipe
-default: fmt lint
+default: server
+
+# Start a server
+@server:
+    hugo server -D
 
 # Run the code formatter
 @fmt:
-    npx prettier -w index.html
+    npx prettier -w content
 
 # Run the linter
 @lint:
-    npx htmlhint index.html
+    npx markdownlint content
 
 # Run the linter for GitHub Actions workflow files
 @lint-github-actions:
