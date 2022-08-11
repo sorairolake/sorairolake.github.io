@@ -5,7 +5,8 @@
 
 image::{ci-badge}[CI, link={ci-url}]
 
-SorairoLake's portfolio page.
+SorairoLake's portfolio page, made with https://gohugo.io/[Hugo] and
+https://github.com/jpanther/congo[Congo].
 
 == URL
 
@@ -15,7 +16,8 @@ https://sorairolake.github.io/
 
 Copyright (C) 2021-2022 Shun Sakai
 
-. This website is distributed under the terms of the _CC BY-ND 4.0_.
+. Unless otherwise noted, this website is distributed under the terms of the
+  _CC BY-ND 4.0_.
 . In addition, some files are distributed under the terms of the _CC0 1.0_.
 
 See link:COPYRIGHT[], link:LICENSE-CC-BY-ND[] and link:LICENSE-CC0[] for more

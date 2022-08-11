@@ -6,13 +6,8 @@ draft = false
 
 ## メール
 
-### Cock.li
-
-<sorairolake@cock.li>
-
-### ProtonMail
-
-<sorairolake@protonmail.ch>
+1. <sorairolake@cock.li>
+2. <sorairolake@protonmail.ch>
 
 ## PGP 公開鍵
 
