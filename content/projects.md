@@ -43,3 +43,11 @@ Rust の `main` 関数の戻り値で`<sysexits.h>`で定義されている終�
 {{< button href="https://github.com/sorairolake/sysexits-rs" target="_blank" >}}
 リポジトリ
 {{< /button >}}
+
+## qrtool
+
+QR コードのエンコードとデコードを行うためのコマンドラインユーティリティ。
+
+{{< button href="https://github.com/sorairolake/qrtool" target="_blank" >}}
+リポジトリ
+{{< /button >}}
