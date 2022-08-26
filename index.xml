@@ -5,6 +5,7 @@
 リポジトリ hf # 隠しファイルと隠しディレクトリを操作するためのコマンドラインユーティリティ。
 リポジトリ jsonfmt # JSON 向けのフォーマッタ。
 リポジトリ sysexits-rs # Rust の main 関数の戻り値で&amp;lt;sysexits.h&amp;gt;で定義されている終了コードを使えるようにするライブラリ。
+リポジトリ qrtool # QR コードのエンコードとデコードを行うためのコマンドラインユーティリティ。
 リポジトリ</description></item><item><title>About</title><link>https://sorairolake.github.io/about/</link><pubDate>Tue, 09 Aug 2022 14:58:42 +0900</pubDate><guid>https://sorairolake.github.io/about/</guid><description>プロフィール # 名前 # 酒井 駿
 誕生日 # 1995 年 10 月 2 日
 出身地 # 長野県</description></item></channel></rss>
