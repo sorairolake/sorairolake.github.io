@@ -1,7 +1,12 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
+lastmod = 2022-11-02T05:51:52+09:00
 draft = false
+description = ""
+summary = ""
+categories = [""]
+tags = [""]
 +++
 
 ## dsconv
@@ -49,5 +54,13 @@ Rust の `main` 関数の戻り値で`<sysexits.h>`で定義されている終�
 QR コードのエンコードとデコードを行うためのコマンドラインユーティリティ。
 
 {{< button href="https://github.com/sorairolake/qrtool" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## scryptenc-rs
+
+scrypt 暗号化データ形式の Rust 実装。
+
+{{< button href="https://github.com/sorairolake/scryptenc-rs" target="_blank" >}}
 リポジトリ
 {{< /button >}}
