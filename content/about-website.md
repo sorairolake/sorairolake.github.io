@@ -1,7 +1,12 @@
 +++
 title = "このウェブサイトについて"
 date = 2022-08-09T19:54:34+09:00
+lastmod = 2022-08-11T13:05:18+09:00
 draft = false
+description = ""
+summary = ""
+categories = [""]
+tags = [""]
 +++
 
 ## ソースコード

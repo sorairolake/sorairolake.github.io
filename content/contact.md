@@ -1,7 +1,12 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
+lastmod = 2022-08-11T13:37:54+09:00
 draft = false
+description = ""
+summary = ""
+categories = [""]
+tags = [""]
 +++
 
 ## メール
