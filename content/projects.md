@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2022-11-02T05:51:52+09:00
+lastmod = 2022-11-22T13:14:35+09:00
 draft = false
 description = ""
 summary = ""
@@ -43,7 +43,7 @@ JSON 向けのフォーマッタ。
 
 ## sysexits-rs
 
-Rust の `main` 関数の戻り値で`<sysexits.h>`で定義されている終了コードを使えるようにするライブラリ。
+Rust の `main` 関数の戻り値で `<sysexits.h>` で定義されている終了コードを使えるようにするライブラリ。
 
 {{< button href="https://github.com/sorairolake/sysexits-rs" target="_blank" >}}
 リポジトリ
@@ -62,5 +62,13 @@ QR コードのエンコードとデコードを行うためのコマンドラ�
 scrypt 暗号化データ形式の Rust 実装。
 
 {{< button href="https://github.com/sorairolake/scryptenc-rs" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## rscrypt
+
+`scrypt(1)` の Rust 実装。
+
+{{< button href="https://github.com/sorairolake/rscrypt" target="_blank" >}}
 リポジトリ
 {{< /button >}}
