@@ -4,7 +4,7 @@ dateFormat = "2006-01-02"
 title = "SorairoLake"
 description = "SorairoLakeの紹介ページ。"
 copyright = """\
-  &copy; 2021&ndash;2022 Shun Sakai \
+  &copy; 2021&ndash;2023 Shun Sakai \
   &middot; \
   [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)\
   """
