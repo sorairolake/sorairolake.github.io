@@ -15,5 +15,6 @@ image = "image/profile.png"
 headline = "A programmer from Nagano, Japan."
 links = [
   { github = "https://github.com/sorairolake" },
-  { gitlab = "https://gitlab.com/sorairolake" }
+  { gitlab = "https://gitlab.com/sorairolake" },
+  { twitter = "https://twitter.com/sorairolake" }
 ]
