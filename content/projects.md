@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2022-11-22T13:14:35+09:00
+lastmod = 2023-02-27T20:05:28+09:00
 draft = false
 description = ""
 summary = ""
@@ -22,6 +22,14 @@ tags = [""]
 様々な種類のメッセージダイジェストの計算と検証を行うためのコマンドラインユーティリティ。
 
 {{< button href="https://github.com/sorairolake/rshash" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## 7z-rs
+
+7z 形式を読み書きするためのライブラリ。
+
+{{< button href="https://github.com/sorairolake/7z-rs" target="_blank" >}}
 リポジトリ
 {{< /button >}}
 
