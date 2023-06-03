@@ -2,13 +2,15 @@
 ライセンス # Copyright © 2021–2023 Shun Sakai
 特に断りのない限り、このウェブサイトは CC BY-ND 4.0 の条件の下で配布されています。 また、一部のファイルは CC0 1.0 の条件の下で配布されています。 詳細については COPYRIGHT を参照して下さい。</description></item><item><title>リンク</title><link>https://sorairolake.github.io/links/</link><pubDate>Tue, 09 Aug 2022 14:58:54 +0900</pubDate><guid>https://sorairolake.github.io/links/</guid><description> ウェブサイト リンク GitHub @sorairolake GitLab @sorairolake ブログ SorairoLake&amp;rsquo;s blog</description></item><item><title>連絡先</title><link>https://sorairolake.github.io/contact/</link><pubDate>Tue, 09 Aug 2022 14:58:50 +0900</pubDate><guid>https://sorairolake.github.io/contact/</guid><description>SNS # サービス アカウント Twitter @sorairolake Misskey.io @sorairolake メール # sorairolake@cock.li sorairolake@protonmail.ch PGP 公開鍵 # 716E DD23 62B1 2C9F 8805 9B47 17CE 0724 4B59 5822</description></item><item><title>プロジェクト</title><link>https://sorairolake.github.io/projects/</link><pubDate>Tue, 09 Aug 2022 14:58:46 +0900</pubDate><guid>https://sorairolake.github.io/projects/</guid><description>dsconv # データシリアライゼーションフォーマットを相互変換するためのコマンドラインユーティリティ。
 リポジトリ RSHash # 様々な種類のメッセージダイジェストの計算と検証を行うためのコマンドラインユーティリティ。
-リポジトリ 7z-rs # 7z 形式を読み書きするためのライブラリ。
 リポジトリ hf # 隠しファイルと隠しディレクトリを操作するためのコマンドラインユーティリティ。
 リポジトリ jsonfmt # JSON 向けのフォーマッタ。
 リポジトリ sysexits-rs # Rust の main 関数の戻り値で &amp;lt;sysexits.h&amp;gt; で定義されている終了コードを使えるようにするライブラリ。
 リポジトリ qrtool # QR コードのエンコードとデコードを行うためのコマンドラインユーティリティ。
 リポジトリ scryptenc-rs # scrypt 暗号化データ形式の Rust 実装。
 リポジトリ rscrypt # scrypt(1) の Rust 実装。
+リポジトリ nt-time # Windows のファイル時刻のための Rust のライブラリ。
+リポジトリ sysexits-zig # sysexits-rs を移植した Zig のライブラリ。
+リポジトリ Sysexits.jl # sysexits-rs を移植した Julia のライブラリ。
 リポジトリ</description></item><item><title>About</title><link>https://sorairolake.github.io/about/</link><pubDate>Tue, 09 Aug 2022 14:58:42 +0900</pubDate><guid>https://sorairolake.github.io/about/</guid><description>プロフィール # 名前 # 酒井 駿
 誕生日 # 1995 年 10 月 2 日
 出身地 # 長野県</description></item></channel></rss>
