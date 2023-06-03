@@ -1,13 +1,15 @@
 languageCode = "ja"
 languageName = "日本語"
-dateFormat = "2006-01-02"
 title = "SorairoLake"
-description = "SorairoLakeの紹介ページ。"
 copyright = """\
   &copy; 2021&ndash;2023 Shun Sakai \
   &middot; \
   [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)\
   """
+
+[params]
+dateFormat = "2006-01-02"
+description = "SorairoLakeの紹介ページ。"
 
 [author]
 name = "SorairoLake"

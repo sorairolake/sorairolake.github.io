@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2023-02-27T20:05:28+09:00
+lastmod = 2023-06-03T11:36:12+09:00
 draft = false
 description = ""
 summary = ""
@@ -25,14 +25,6 @@ tags = [""]
 リポジトリ
 {{< /button >}}
 
-## 7z-rs
-
-7z 形式を読み書きするためのライブラリ。
-
-{{< button href="https://github.com/sorairolake/7z-rs" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-
 ## hf
 
 隠しファイルと隠しディレクトリを操作するためのコマンドラインユーティリティ。
@@ -51,7 +43,7 @@ JSON 向けのフォーマッタ。
 
 ## sysexits-rs
 
-Rust の `main` 関数の戻り値で `<sysexits.h>` で定義されている終了コードを使えるようにするライブラリ。
+Rust の `main` 関数の戻り値で [`<sysexits.h>`](https://man.openbsd.org/sysexits) で定義されている終了コードを使えるようにするライブラリ。
 
 {{< button href="https://github.com/sorairolake/sysexits-rs" target="_blank" >}}
 リポジトリ
@@ -78,5 +70,29 @@ scrypt 暗号化データ形式の Rust 実装。
 `scrypt(1)` の Rust 実装。
 
 {{< button href="https://github.com/sorairolake/rscrypt" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## nt-time
+
+Windows の[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/sysinfo/file-times)のための Rust のライブラリ。
+
+{{< button href="https://github.com/sorairolake/nt-time" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## sysexits-zig
+
+[sysexits-rs](#sysexits-rs) を移植した Zig のライブラリ。
+
+{{< button href="https://github.com/sorairolake/sysexits-zig" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## Sysexits.jl
+
+[sysexits-rs](#sysexits-rs) を移植した Julia のライブラリ。
+
+{{< button href="https://github.com/sorairolake/Sysexits.jl" target="_blank" >}}
 リポジトリ
 {{< /button >}}
