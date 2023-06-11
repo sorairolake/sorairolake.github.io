@@ -5,7 +5,8 @@ Files: *
 Copyright: 2021-2023 Shun Sakai
 License: CC-BY-ND-4.0
 
-Files: justfile
+Files: assets/image/generate.sh
+       justfile
 Copyright: None
 License: CC0-1.0
 
