@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2023-06-03T11:36:12+09:00
+lastmod = 2023-07-11T10:27:04+09:00
 draft = false
 description = ""
 summary = ""
@@ -35,7 +35,7 @@ tags = [""]
 
 ## jsonfmt
 
-JSON 向けのフォーマッタ。
+JSON向けのフォーマッタ。
 
 {{< button href="https://github.com/sorairolake/jsonfmt" target="_blank" >}}
 リポジトリ
@@ -43,7 +43,7 @@ JSON 向けのフォーマッタ。
 
 ## sysexits-rs
 
-Rust の `main` 関数の戻り値で [`<sysexits.h>`](https://man.openbsd.org/sysexits) で定義されている終了コードを使えるようにするライブラリ。
+Rustの`main`関数の戻り値で[`<sysexits.h>`](https://man.openbsd.org/sysexits)で定義されている終了コードを使えるようにするライブラリ。
 
 {{< button href="https://github.com/sorairolake/sysexits-rs" target="_blank" >}}
 リポジトリ
@@ -51,7 +51,7 @@ Rust の `main` 関数の戻り値で [`<sysexits.h>`](https://man.openbsd.org/s
 
 ## qrtool
 
-QR コードのエンコードとデコードを行うためのコマンドラインユーティリティ。
+QRコードのエンコードとデコードを行うためのコマンドラインユーティリティ。
 
 {{< button href="https://github.com/sorairolake/qrtool" target="_blank" >}}
 リポジトリ
@@ -59,7 +59,7 @@ QR コードのエンコードとデコードを行うためのコマンドラ�
 
 ## scryptenc-rs
 
-scrypt 暗号化データ形式の Rust 実装。
+scrypt暗号化データ形式のRust実装。
 
 {{< button href="https://github.com/sorairolake/scryptenc-rs" target="_blank" >}}
 リポジトリ
@@ -67,7 +67,7 @@ scrypt 暗号化データ形式の Rust 実装。
 
 ## rscrypt
 
-`scrypt(1)` の Rust 実装。
+`scrypt(1)`のRust実装。
 
 {{< button href="https://github.com/sorairolake/rscrypt" target="_blank" >}}
 リポジトリ
@@ -75,7 +75,7 @@ scrypt 暗号化データ形式の Rust 実装。
 
 ## nt-time
 
-Windows の[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/sysinfo/file-times)のための Rust のライブラリ。
+Windowsの[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/sysinfo/file-times)のためのRustのライブラリ。
 
 {{< button href="https://github.com/sorairolake/nt-time" target="_blank" >}}
 リポジトリ
@@ -83,7 +83,7 @@ Windows の[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/
 
 ## sysexits-zig
 
-[sysexits-rs](#sysexits-rs) を移植した Zig のライブラリ。
+[sysexits-rs](#sysexits-rs)を移植したZigのライブラリ。
 
 {{< button href="https://github.com/sorairolake/sysexits-zig" target="_blank" >}}
 リポジトリ
@@ -91,7 +91,7 @@ Windows の[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/
 
 ## Sysexits.jl
 
-[sysexits-rs](#sysexits-rs) を移植した Julia のライブラリ。
+[sysexits-rs](#sysexits-rs)を移植したJuliaのライブラリ。
 
 {{< button href="https://github.com/sorairolake/Sysexits.jl" target="_blank" >}}
 リポジトリ
