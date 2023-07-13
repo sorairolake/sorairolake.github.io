@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SorairoLake</title><link>https://sorairolake.github.io/</link><description>Recent content on SorairoLake</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>&amp;copy; 2021&amp;ndash;2023 Shun Sakai &amp;middot; [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)</copyright><atom:link href="https://sorairolake.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>このウェブサイトについて</title><link>https://sorairolake.github.io/about-website/</link><pubDate>Tue, 09 Aug 2022 19:54:34 +0900</pubDate><guid>https://sorairolake.github.io/about-website/</guid><description>ソースコード # リポジトリ
 ライセンス # Copyright © 2021–2023 Shun Sakai
-特に断りのない限り、このウェブサイトは CC BY-ND 4.0 の条件の下で配布されています。 また、一部のファイルは CC0 1.0 の条件の下で配布されています。 詳細については COPYRIGHT を参照して下さい。</description></item><item><title>リンク</title><link>https://sorairolake.github.io/links/</link><pubDate>Tue, 09 Aug 2022 14:58:54 +0900</pubDate><guid>https://sorairolake.github.io/links/</guid><description> ウェブサイト リンク GitHub @sorairolake GitLab @sorairolake ウィキメディア・プロジェクト Momiji-Penguin ブログ SorairoLake&amp;rsquo;s blog</description></item><item><title>連絡先</title><link>https://sorairolake.github.io/contact/</link><pubDate>Tue, 09 Aug 2022 14:58:50 +0900</pubDate><guid>https://sorairolake.github.io/contact/</guid><description>SNS # サービス アカウント Twitter @sorairolake Misskey.io @sorairolake メール # sorairolake@cock.li sorairolake@protonmail.ch PGP 公開鍵 # 716E DD23 62B1 2C9F 8805 9B47 17CE 0724 4B59 5822</description></item><item><title>プロジェクト</title><link>https://sorairolake.github.io/projects/</link><pubDate>Tue, 09 Aug 2022 14:58:46 +0900</pubDate><guid>https://sorairolake.github.io/projects/</guid><description>dsconv # データシリアライゼーションフォーマットを相互変換するためのコマンドラインユーティリティ。
+特に断りのない限り、このウェブサイトはクリエイティブ・コモンズ 表示-改変禁止 4.0 国際 パブリック・ライセンスの条件の下で配布されています。 また、一部のファイルはCC0 1.0 全世界の条件の下で配布されています。 詳細についてはCOPYRIGHTを参照して下さい。</description></item><item><title>リンク</title><link>https://sorairolake.github.io/links/</link><pubDate>Tue, 09 Aug 2022 14:58:54 +0900</pubDate><guid>https://sorairolake.github.io/links/</guid><description> ウェブサイト リンク GitHub @sorairolake GitLab @sorairolake ウィキメディア・プロジェクト Momiji-Penguin ブログ SorairoLake&amp;rsquo;s blog</description></item><item><title>連絡先</title><link>https://sorairolake.github.io/contact/</link><pubDate>Tue, 09 Aug 2022 14:58:50 +0900</pubDate><guid>https://sorairolake.github.io/contact/</guid><description>SNS # サービス アカウント Twitter @sorairolake Misskey.io @sorairolake@misskey.io メール # sorairolake@cock.li sorairolake@protonmail.ch PGP公開鍵 # 716E DD23 62B1 2C9F 8805 9B47 17CE 0724 4B59 5822 keys.openpgp.org openpgp4fpr</description></item><item><title>プロジェクト</title><link>https://sorairolake.github.io/projects/</link><pubDate>Tue, 09 Aug 2022 14:58:46 +0900</pubDate><guid>https://sorairolake.github.io/projects/</guid><description>dsconv # データシリアライゼーションフォーマットを相互変換するためのコマンドラインユーティリティ。
 リポジトリ RSHash # 様々な種類のメッセージダイジェストの計算と検証を行うためのコマンドラインユーティリティ。
 リポジトリ hf # 隠しファイルと隠しディレクトリを操作するためのコマンドラインユーティリティ。
-リポジトリ jsonfmt # JSON 向けのフォーマッタ。
-リポジトリ sysexits-rs # Rust の main 関数の戻り値で &amp;lt;sysexits.h&amp;gt; で定義されている終了コードを使えるようにするライブラリ。
-リポジトリ qrtool # QR コードのエンコードとデコードを行うためのコマンドラインユーティリティ。
-リポジトリ scryptenc-rs # scrypt 暗号化データ形式の Rust 実装。
-リポジトリ rscrypt # scrypt(1) の Rust 実装。
-リポジトリ nt-time # Windows のファイル時刻のための Rust のライブラリ。
-リポジトリ sysexits-zig # sysexits-rs を移植した Zig のライブラリ。
-リポジトリ Sysexits.jl # sysexits-rs を移植した Julia のライブラリ。
-リポジトリ</description></item><item><title>About</title><link>https://sorairolake.github.io/about/</link><pubDate>Tue, 09 Aug 2022 14:58:42 +0900</pubDate><guid>https://sorairolake.github.io/about/</guid><description>プロフィール # 名前 # 酒井 駿
-誕生日 # 1995 年 10 月 2 日
-出身地 # 長野県</description></item></channel></rss>
+リポジトリ jsonfmt # JSON向けのフォーマッタ。
+リポジトリ sysexits-rs # Rustのmain関数の戻り値で&amp;lt;sysexits.h&amp;gt;で定義されている終了コードを使えるようにするライブラリ。
+リポジトリ qrtool # QRコードのエンコードとデコードを行うためのコマンドラインユーティリティ。
+リポジトリ scryptenc-rs # scrypt暗号化データ形式のRust実装。
+リポジトリ rscrypt # scrypt(1)のRust実装。
+リポジトリ nt-time # Windowsのファイル時刻のためのRustのライブラリ。
+リポジトリ sysexits-zig # sysexits-rsを移植したZigのライブラリ。
+リポジトリ Sysexits.jl # sysexits-rsを移植したJuliaのライブラリ。
+リポジトリ</description></item><item><title>私について</title><link>https://sorairolake.github.io/about/</link><pubDate>Tue, 09 Aug 2022 14:58:42 +0900</pubDate><guid>https://sorairolake.github.io/about/</guid><description>プロフィール # 名前 # 酒井 駿
+誕生日 # 1995年10月2日
+出身地 # 長野県
+趣味 # アニメ鑑賞 漫画 プログラミング言語 # 好き # Rust TypeScript そこそこ好き # C# Go Ruby 普通 # Julia Perl Python Zig 環境 # openSUSE Leap KDE Plasma</description></item></channel></rss>
