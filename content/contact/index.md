@@ -1,7 +1,7 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
-lastmod = 2023-02-27T19:37:08+09:00
+lastmod = 2023-07-12T00:36:46+09:00
 draft = false
 description = ""
 summary = ""
