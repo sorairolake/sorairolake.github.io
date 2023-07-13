@@ -1,5 +1,5 @@
 [[main]]
-name = "About"
+name = "私について"
 pageRef = "about"
 weight = 10
 
