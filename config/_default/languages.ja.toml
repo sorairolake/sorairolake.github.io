@@ -1,6 +1,6 @@
 languageCode = "ja"
 languageName = "日本語"
-title = "SorairoLake"
+title = "SorairoLake's Home Page"
 copyright = """\
   &copy; 2021&ndash;2023 Shun Sakai \
   &middot; \
@@ -9,15 +9,15 @@ copyright = """\
 
 [params]
 dateFormat = "2006-01-02"
-description = "SorairoLakeの紹介ページ。"
+description = "SorairoLakeのホームページ。"
 
 [author]
-name = "SorairoLake"
+name = "Shun Sakai"
 image = "image/profile.png"
 headline = "A programmer from Nagano, Japan."
 links = [
-  { github = "https://github.com/sorairolake" },
-  { gitlab = "https://gitlab.com/sorairolake" },
   { twitter = "https://twitter.com/sorairolake" },
   { mastodon = "https://misskey.io/@sorairolake" },
+  { github = "https://github.com/sorairolake" },
+  { gitlab = "https://gitlab.com/sorairolake" },
 ]

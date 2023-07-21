@@ -1,4 +1,4 @@
-= sorairolake.github.io
+= SorairoLake's Home Page
 :project-url: https://github.com/sorairolake/sorairolake.github.io
 :shields-url: https://img.shields.io
 :ci-badge: {shields-url}/github/actions/workflow/status/sorairolake/sorairolake.github.io/CI.yaml?branch=develop&label=CI&logo=github&style=for-the-badge
@@ -6,7 +6,7 @@
 
 image:{ci-badge}[CI, link={ci-url}]
 
-SorairoLake's portfolio page, made with https://gohugo.io/[Hugo] and
+SorairoLake's home page, made with https://gohugo.io/[Hugo] and
 https://github.com/jpanther/congo[Congo].
 
 == URL
