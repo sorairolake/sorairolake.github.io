@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: None
+//
+// SPDX-License-Identifier: CC0-1.0
+
 = SorairoLake's Home Page
 :project-url: https://github.com/sorairolake/sorairolake.github.io
 :shields-url: https://img.shields.io
