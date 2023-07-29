@@ -4,7 +4,7 @@ title = "SorairoLake's Home Page"
 copyright = """\
   &copy; 2021&ndash;2023 Shun Sakai \
   &middot; \
-  [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.ja)\
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)\
   """
 
 [params]
