@@ -19,14 +19,14 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
         submodules: true
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.6.0
       with:
-        hugo-version: '0.115.2'
+        hugo-version: '0.118.2'
         extended: true
     - name: Build a website
       run: hugo
@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Setup Node.js environment
       uses: actions/setup-node@v3
       with:
@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Setup Node.js environment
       uses: actions/setup-node@v3
       with:
