@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2023-07-11T10:27:04+09:00
+lastmod = 2023-09-06T20:04:58+09:00
 draft = false
 description = ""
 summary = ""
@@ -94,5 +94,13 @@ Windowsの[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/s
 [sysexits-rs](#sysexits-rs)を移植したJuliaのライブラリ。
 
 {{< button href="https://github.com/sorairolake/Sysexits.jl" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+
+## abcrypt
+
+Argon2とBLAKE2b-512-MACとXChaCha20-Poly1305を使用したシンプルでモダンでセキュアなファイル暗号化ツールとファイルフォーマットとRustのライブラリ。
+
+{{< button href="https://github.com/sorairolake/abcrypt" target="_blank" >}}
 リポジトリ
 {{< /button >}}
