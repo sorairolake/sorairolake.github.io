@@ -13,7 +13,7 @@ tags = [""]
 
 | サービス   | アカウント                                                 |
 | ---------- | ---------------------------------------------------------- |
-| Twitter    | [@sorairolake](https://twitter.com/sorairolake)            |
+| X          | [@sorairolake](https://twitter.com/sorairolake)            |
 | Misskey.io | [@sorairolake@misskey.io](https://misskey.io/@sorairolake) |
 
 ## メール
