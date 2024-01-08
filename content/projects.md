@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-01-08T13:06:00+09:00
+lastmod = 2024-01-08T13:15:12+09:00
 draft = false
 description = ""
 summary = ""
@@ -144,7 +144,7 @@ Argon2とBLAKE2b-512-MACとXChaCha20-Poly1305を使用したシンプルでモ�
 ホームページ
 {{< /button >}}
 
-### abcrypt
+### Library
 
 abcrypt暗号化データフォーマットを実装したRustのライブラリ。
 
@@ -152,7 +152,7 @@ abcrypt暗号化データフォーマットを実装したRustのライブラリ
 crates.io
 {{< /button >}}
 
-### abcrypt-cli
+### Command-line Utility
 
 ファイルの暗号化を行うためのコマンドラインユーティリティ。
 
@@ -160,7 +160,7 @@ crates.io
 crates.io
 {{< /button >}}
 
-### abcrypt-capi
+### C API
 
 RustのライブラリをC言語で利用できるようにするための言語バインディング。
 
