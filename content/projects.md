@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-01-08T12:41:45+09:00
+lastmod = 2024-01-08T13:06:00+09:00
 draft = false
 description = ""
 summary = ""
@@ -80,7 +80,7 @@ crates.io
 
 ## scryptenc-rs
 
-scrypt暗号化データ形式のRust実装。
+scrypt暗号化データフォーマットのRust実装。
 
 {{< button href="https://github.com/sorairolake/scryptenc-rs" target="_blank" >}}
 リポジトリ
