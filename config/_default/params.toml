@@ -15,3 +15,4 @@ showDate = false
 showAuthor = false
 showPagination = false
 showReadingTime = false
+showTableOfContents = true
