@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-01-08T13:15:12+09:00
+lastmod = 2024-01-19T12:48:52+09:00
 draft = false
 description = ""
 summary = ""
@@ -80,27 +80,31 @@ crates.io
 
 ## scryptenc-rs
 
-scrypt暗号化データフォーマットのRust実装。
+scrypt暗号化データフォーマットを実装したファイル暗号化ツールとRustのライブラリ。
 
 {{< button href="https://github.com/sorairolake/scryptenc-rs" target="_blank" >}}
 リポジトリ
 {{< /button >}}
+{{< button href="https://sorairolake.github.io/scryptenc-rs/" target="_blank" >}}
+ホームページ
+{{< /button >}}
+
+### scryptenc
+
+scrypt暗号化データフォーマットを実装したRustのライブラリ。
+
 {{< button href="https://crates.io/crates/scryptenc" target="_blank" >}}
 crates.io
 {{< /button >}}
 
-## rscrypt
+### rscrypt
+
+ファイルの暗号化を行うためのコマンドラインユーティリティ。
 
 `scrypt(1)`のRust実装。
 
-{{< button href="https://github.com/sorairolake/rscrypt" target="_blank" >}}
-リポジトリ
-{{< /button >}}
 {{< button href="https://crates.io/crates/scryptenc-cli" target="_blank" >}}
 crates.io
-{{< /button >}}
-{{< button href="https://sorairolake.github.io/rscrypt/" target="_blank" >}}
-ホームページ
 {{< /button >}}
 
 ## nt-time
