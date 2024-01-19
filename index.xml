@@ -6,9 +6,11 @@
 リポジトリ crates.io jsonfmt #JSON向けのフォーマッタ。
 リポジトリ Go Packages sysexits-rs #Rustのmain関数の戻り値で&amp;lt;sysexits.h&amp;gt;で定義されている終了コードを使えるようにするライブラリ。
 リポジトリ crates.io qrtool #QRコードのエンコードとデコードを行うためのコマンドラインユーティリティ。
-リポジトリ crates.io ホームページ scryptenc-rs #scrypt暗号化データフォーマットのRust実装。
-リポジトリ crates.io rscrypt #scrypt(1)のRust実装。
-リポジトリ crates.io ホームページ nt-time #Windowsのファイル時刻のためのRustのライブラリ。
+リポジトリ crates.io ホームページ scryptenc-rs #scrypt暗号化データフォーマットを実装したファイル暗号化ツールとRustのライブラリ。
+リポジトリ ホームページ scryptenc #scrypt暗号化データフォーマットを実装したRustのライブラリ。
+crates.io rscrypt #ファイルの暗号化を行うためのコマンドラインユーティリティ。
+scrypt(1)のRust実装。
+crates.io nt-time #Windowsのファイル時刻のためのRustのライブラリ。
 リポジトリ crates.io sysexits-zig # sysexits-rsを移植したZigのライブラリ。
 リポジトリ Sysexits.jl # sysexits-rsを移植したJuliaのライブラリ。
 リポジトリ JuliaHub abcrypt #Argon2とBLAKE2b-512-MACとXChaCha20-Poly1305を使用したシンプルでモダンでセキュアなファイル暗号化ツールとファイルフォーマットとRustのライブラリ。
