@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-01-19T12:48:52+09:00
+lastmod = 2024-01-27T20:13:40+09:00
 draft = false
 description = ""
 summary = ""
@@ -107,6 +107,14 @@ crates.io
 crates.io
 {{< /button >}}
 
+### Wasm Bindings
+
+RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
+
+{{< button href="https://crates.io/crates/scryptenc-wasm" target="_blank" >}}
+crates.io
+{{< /button >}}
+
 ## nt-time
 
 Windowsの[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/sysinfo/file-times)のためのRustのライブラリ。
@@ -169,5 +177,13 @@ crates.io
 RustのライブラリをC言語で利用できるようにするための言語バインディング。
 
 {{< button href="https://crates.io/crates/abcrypt-capi" target="_blank" >}}
+crates.io
+{{< /button >}}
+
+### Wasm Bindings
+
+RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
+
+{{< button href="https://crates.io/crates/abcrypt-wasm" target="_blank" >}}
 crates.io
 {{< /button >}}

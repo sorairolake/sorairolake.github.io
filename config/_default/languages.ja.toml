@@ -15,7 +15,7 @@ copyright = """\
 dateFormat = "2006-01-02"
 description = "SorairoLakeのホームページ。"
 
-[author]
+[params.author]
 name = "Shun Sakai"
 image = "images/profile.png"
 headline = "A programmer from Nagano, Japan."
