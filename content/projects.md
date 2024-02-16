@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-01-27T20:13:40+09:00
+lastmod = 2024-02-16T17:23:43+09:00
 draft = false
 description = ""
 summary = ""
@@ -186,4 +186,15 @@ RustのライブラリをWasmやJavaScriptで利用できるようにするた�
 
 {{< button href="https://crates.io/crates/abcrypt-wasm" target="_blank" >}}
 crates.io
+{{< /button >}}
+
+## abcrypt-go
+
+abcrypt暗号化データフォーマットを実装したGoのライブラリ。
+
+{{< button href="https://github.com/sorairolake/abcrypt-go" target="_blank" >}}
+リポジトリ
+{{< /button >}}
+{{< button href="https://pkg.go.dev/github.com/sorairolake/abcrypt-go" target="_blank" >}}
+Go Packages
 {{< /button >}}
