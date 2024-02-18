@@ -11,7 +11,7 @@
 crates.io rscrypt #ファイルの暗号化を行うためのコマンドラインユーティリティ。
 scrypt(1)のRust実装。
 crates.io Wasm Bindings #RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
-crates.io nt-time #Windowsの ファイル時刻のためのRustのライブラリ。
+npm crates.io nt-time #Windowsの ファイル時刻のためのRustのライブラリ。
 リポジトリ crates.io sysexits-zig # sysexits-rsを移植したZigのライブラリ。
 リポジトリ Sysexits.jl # sysexits-rsを移植したJuliaのライブラリ。
 リポジトリ JuliaHub abcrypt #Argon2とBLAKE2b-512-MACとXChaCha20-Poly1305を使用したシンプルでモダンでセキュアなファイル暗号化ツールとファイルフォーマットとRustのライブラリ。
