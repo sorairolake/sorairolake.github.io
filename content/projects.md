@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-02-16T17:23:43+09:00
+lastmod = 2024-02-19T01:09:51+09:00
 draft = false
 description = ""
 summary = ""
@@ -111,6 +111,9 @@ crates.io
 
 RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
 
+{{< button href="https://www.npmjs.com/package/@sorairolake/scryptenc-wasm" target="_blank" >}}
+npm
+{{< /button >}}
 {{< button href="https://crates.io/crates/scryptenc-wasm" target="_blank" >}}
 crates.io
 {{< /button >}}
@@ -184,6 +187,9 @@ crates.io
 
 RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
 
+{{< button href="https://www.npmjs.com/package/@sorairolake/abcrypt-wasm" target="_blank" >}}
+npm
+{{< /button >}}
 {{< button href="https://crates.io/crates/abcrypt-wasm" target="_blank" >}}
 crates.io
 {{< /button >}}
