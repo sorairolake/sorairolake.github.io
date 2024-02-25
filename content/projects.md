@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-02-19T01:09:51+09:00
+lastmod = 2024-02-26T07:07:10+09:00
 draft = false
 description = ""
 summary = ""
@@ -191,6 +191,17 @@ RustのライブラリをWasmやJavaScriptで利用できるようにするた�
 npm
 {{< /button >}}
 {{< button href="https://crates.io/crates/abcrypt-wasm" target="_blank" >}}
+crates.io
+{{< /button >}}
+
+### Python Bindings
+
+RustのライブラリをPythonで利用できるようにするための言語バインディング。
+
+{{< button href="https://pypi.org/project/abcrypt-py/" target="_blank" >}}
+PyPI
+{{< /button >}}
+{{< button href="https://crates.io/crates/abcrypt-py" target="_blank" >}}
 crates.io
 {{< /button >}}
 
