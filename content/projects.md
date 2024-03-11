@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-02-26T07:07:10+09:00
+lastmod = 2024-03-11T10:14:27+09:00
 draft = false
 description = ""
 summary = ""
@@ -13,89 +13,57 @@ tags = [""]
 
 データシリアライゼーションフォーマットを相互変換するためのコマンドラインユーティリティ。
 
-{{< button href="https://github.com/sorairolake/dsconv" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://crates.io/crates/dsconv" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/dsconv)
+- [crates.io](https://crates.io/crates/dsconv)
 
 ## RSHash
 
 様々な種類のメッセージダイジェストの計算と検証を行うためのコマンドラインユーティリティ。
 
-{{< button href="https://github.com/sorairolake/rshash" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://crates.io/crates/rshash" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/rshash)
+- [crates.io](https://crates.io/crates/rshash)
 
 ## hf
 
 隠しファイルと隠しディレクトリを操作するためのコマンドラインユーティリティ。
 
-{{< button href="https://github.com/sorairolake/hf" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://crates.io/crates/hf" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/hf)
+- [crates.io](https://crates.io/crates/hf)
 
 ## jsonfmt
 
 JSON向けのフォーマッタ。
 
-{{< button href="https://github.com/sorairolake/jsonfmt" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://pkg.go.dev/github.com/sorairolake/jsonfmt" target="_blank" >}}
-Go Packages
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/jsonfmt)
+- [Go Packages](https://pkg.go.dev/github.com/sorairolake/jsonfmt)
 
 ## sysexits-rs
 
 Rustの`main`関数の戻り値で[`<sysexits.h>`](https://man.openbsd.org/sysexits)で定義されている終了コードを使えるようにするライブラリ。
 
-{{< button href="https://github.com/sorairolake/sysexits-rs" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://crates.io/crates/sysexits" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/sysexits-rs)
+- [crates.io](https://crates.io/crates/sysexits)
 
 ## qrtool
 
 QRコードのエンコードとデコードを行うためのコマンドラインユーティリティ。
 
-{{< button href="https://github.com/sorairolake/qrtool" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://crates.io/crates/qrtool" target="_blank" >}}
-crates.io
-{{< /button >}}
-{{< button href="https://sorairolake.github.io/qrtool/" target="_blank" >}}
-ホームページ
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/qrtool)
+- [crates.io](https://crates.io/crates/qrtool)
+- [ホームページ](https://sorairolake.github.io/qrtool/)
 
 ## scryptenc-rs
 
 scrypt暗号化データフォーマットを実装したファイル暗号化ツールとRustのライブラリ。
 
-{{< button href="https://github.com/sorairolake/scryptenc-rs" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://sorairolake.github.io/scryptenc-rs/" target="_blank" >}}
-ホームページ
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/scryptenc-rs)
+- [ホームページ](https://sorairolake.github.io/scryptenc-rs/)
 
 ### scryptenc
 
 scrypt暗号化データフォーマットを実装したRustのライブラリ。
 
-{{< button href="https://crates.io/crates/scryptenc" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [crates.io](https://crates.io/crates/scryptenc)
 
 ### rscrypt
 
@@ -103,115 +71,77 @@ crates.io
 
 `scrypt(1)`のRust実装。
 
-{{< button href="https://crates.io/crates/scryptenc-cli" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [crates.io](https://crates.io/crates/scryptenc-cli)
 
 ### Wasm Bindings
 
 RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
 
-{{< button href="https://www.npmjs.com/package/@sorairolake/scryptenc-wasm" target="_blank" >}}
-npm
-{{< /button >}}
-{{< button href="https://crates.io/crates/scryptenc-wasm" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [npm](https://www.npmjs.com/package/@sorairolake/scryptenc-wasm)
+- [crates.io](https://crates.io/crates/scryptenc-wasm)
 
 ## nt-time
 
 Windowsの[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/sysinfo/file-times)のためのRustのライブラリ。
 
-{{< button href="https://github.com/sorairolake/nt-time" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://crates.io/crates/nt-time" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/nt-time)
+- [crates.io](https://crates.io/crates/nt-time)
 
 ## sysexits-zig
 
 [sysexits-rs](#sysexits-rs)を移植したZigのライブラリ。
 
-{{< button href="https://github.com/sorairolake/sysexits-zig" target="_blank" >}}
-リポジトリ
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/sysexits-zig)
 
 ## Sysexits.jl
 
 [sysexits-rs](#sysexits-rs)を移植したJuliaのライブラリ。
 
-{{< button href="https://github.com/sorairolake/Sysexits.jl" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://juliahub.com/ui/Packages/General/Sysexits" target="_blank" >}}
-JuliaHub
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/Sysexits.jl)
+- [JuliaHub](https://juliahub.com/ui/Packages/General/Sysexits)
 
 ## abcrypt
 
 Argon2とBLAKE2b-512-MACとXChaCha20-Poly1305を使用したシンプルでモダンでセキュアなファイル暗号化ツールとファイルフォーマットとRustのライブラリ。
 
-{{< button href="https://github.com/sorairolake/abcrypt" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://sorairolake.github.io/abcrypt/" target="_blank" >}}
-ホームページ
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/abcrypt)
+- [ホームページ](https://sorairolake.github.io/abcrypt/)
 
 ### Library
 
 abcrypt暗号化データフォーマットを実装したRustのライブラリ。
 
-{{< button href="https://crates.io/crates/abcrypt" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [crates.io](https://crates.io/crates/abcrypt)
 
 ### Command-line Utility
 
 ファイルの暗号化を行うためのコマンドラインユーティリティ。
 
-{{< button href="https://crates.io/crates/abcrypt-cli" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [crates.io](https://crates.io/crates/abcrypt-cli)
 
 ### C API
 
 RustのライブラリをC言語で利用できるようにするための言語バインディング。
 
-{{< button href="https://crates.io/crates/abcrypt-capi" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [crates.io](https://crates.io/crates/abcrypt-capi)
 
 ### Wasm Bindings
 
 RustのライブラリをWasmやJavaScriptで利用できるようにするための言語バインディング。
 
-{{< button href="https://www.npmjs.com/package/@sorairolake/abcrypt-wasm" target="_blank" >}}
-npm
-{{< /button >}}
-{{< button href="https://crates.io/crates/abcrypt-wasm" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [npm](https://www.npmjs.com/package/@sorairolake/abcrypt-wasm)
+- [crates.io](https://crates.io/crates/abcrypt-wasm)
 
 ### Python Bindings
 
 RustのライブラリをPythonで利用できるようにするための言語バインディング。
 
-{{< button href="https://pypi.org/project/abcrypt-py/" target="_blank" >}}
-PyPI
-{{< /button >}}
-{{< button href="https://crates.io/crates/abcrypt-py" target="_blank" >}}
-crates.io
-{{< /button >}}
+- [PyPI](https://pypi.org/project/abcrypt-py/)
+- [crates.io](https://crates.io/crates/abcrypt-py)
 
 ## abcrypt-go
 
 abcrypt暗号化データフォーマットを実装したGoのライブラリ。
 
-{{< button href="https://github.com/sorairolake/abcrypt-go" target="_blank" >}}
-リポジトリ
-{{< /button >}}
-{{< button href="https://pkg.go.dev/github.com/sorairolake/abcrypt-go" target="_blank" >}}
-Go Packages
-{{< /button >}}
+- [リポジトリ](https://github.com/sorairolake/abcrypt-go)
+- [Go Packages](https://pkg.go.dev/github.com/sorairolake/abcrypt-go)
