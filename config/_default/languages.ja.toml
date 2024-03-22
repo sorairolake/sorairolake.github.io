@@ -4,7 +4,7 @@
 
 languageCode = "ja"
 languageName = "日本語"
-title = "SorairoLake's Home Page"
+title = "SorairoLake"
 copyright = """\
   &copy; 2021&ndash;2024 Shun Sakai \
   &middot; \
@@ -12,8 +12,7 @@ copyright = """\
   """
 
 [params]
-dateFormat = "2006-01-02"
-description = "SorairoLakeのホームページ。"
+description = "SorairoLakeのホームページ"
 
 [params.author]
 name = "Shun Sakai"
