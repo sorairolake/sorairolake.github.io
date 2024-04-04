@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-03-11T10:14:27+09:00
+lastmod = 2024-04-04T22:11:52+09:00
 draft = false
 description = ""
 summary = ""
@@ -25,10 +25,11 @@ tags = [""]
 
 ## hf
 
-隠しファイルと隠しディレクトリを操作するためのコマンドラインユーティリティ。
+隠しファイルと隠しディレクトリを操作するためのクロスプラットフォームのRustのライブラリとコマンドラインユーティリティ。
 
 - [リポジトリ](https://github.com/sorairolake/hf)
 - [crates.io](https://crates.io/crates/hf)
+- [ホームページ](https://sorairolake.github.io/hf/)
 
 ## jsonfmt
 
@@ -141,7 +142,22 @@ RustのライブラリをPythonで利用できるようにするための言語�
 
 ## abcrypt-go
 
-abcrypt暗号化データフォーマットを実装したGoのライブラリ。
+abcrypt暗号化データフォーマットを実装したGoのパッケージ。
 
 - [リポジトリ](https://github.com/sorairolake/abcrypt-go)
 - [Go Packages](https://pkg.go.dev/github.com/sorairolake/abcrypt-go)
+
+## favico
+
+Faviconを作成するためのコマンドラインユーティリティ。
+
+- [リポジトリ](https://github.com/sorairolake/favico)
+- [crates.io](https://crates.io/crates/favico)
+- [ホームページ](https://sorairolake.github.io/favico/)
+
+## lzip-go
+
+lzip圧縮ファイルフォーマットの読み取りと書き込みに対応した完全にGoで書かれたパッケージ。
+
+- [リポジトリ](https://github.com/sorairolake/lzip-go)
+- [Go Packages](https://pkg.go.dev/github.com/sorairolake/lzip-go)
