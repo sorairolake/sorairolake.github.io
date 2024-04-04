@@ -1,7 +1,7 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
-lastmod = 2023-07-12T00:36:46+09:00
+lastmod = 2024-04-04T22:54:02+09:00
 draft = false
 description = ""
 summary = ""
@@ -26,4 +26,4 @@ tags = [""]
 1. [716E DD23 62B1 2C9F 8805 9B47 17CE 0724 4B59 5822](sorairolake.asc)
 2. [keys.openpgp.org](https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822)
 
-![openpgp4fprのQRコード](openpgp4fpr.svg "openpgp4fpr")
+![openpgp4fprのQRコード](openpgp4fpr.webp "openpgp4fpr")
