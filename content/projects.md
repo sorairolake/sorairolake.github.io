@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-04-04T22:11:52+09:00
+lastmod = 2024-04-04T23:17:19+09:00
 draft = false
 description = ""
 summary = ""
@@ -47,7 +47,7 @@ Rustの`main`関数の戻り値で[`<sysexits.h>`](https://man.openbsd.org/sysex
 
 ## qrtool
 
-QRコードのエンコードとデコードを行うためのコマンドラインユーティリティ。
+[QRコード](https://www.qrcode.com/)のエンコードとデコードを行うためのコマンドラインユーティリティ。
 
 - [リポジトリ](https://github.com/sorairolake/qrtool)
 - [crates.io](https://crates.io/crates/qrtool)
@@ -55,7 +55,7 @@ QRコードのエンコードとデコードを行うためのコマンドライ
 
 ## scryptenc-rs
 
-scrypt暗号化データフォーマットを実装したファイル暗号化ツールとRustのライブラリ。
+[scrypt暗号化データフォーマット](https://github.com/Tarsnap/scrypt/blob/1.3.1/FORMAT)を実装したファイル暗号化ツールとRustのライブラリ。
 
 - [リポジトリ](https://github.com/sorairolake/scryptenc-rs)
 - [ホームページ](https://sorairolake.github.io/scryptenc-rs/)
@@ -103,7 +103,7 @@ Windowsの[ファイル時刻](https://learn.microsoft.com/ja-jp/windows/win32/s
 
 ## abcrypt
 
-Argon2とBLAKE2b-512-MACとXChaCha20-Poly1305を使用したシンプルでモダンでセキュアなファイル暗号化ツールとファイルフォーマットとRustのライブラリ。
+[Argon2](https://datatracker.ietf.org/doc/html/rfc9106)と[BLAKE2b-512-MAC](https://datatracker.ietf.org/doc/html/rfc7693)と[XChaCha20-Poly1305](https://datatracker.ietf.org/doc/html/draft-arciszewski-xchacha-03)を使用したシンプルでモダンでセキュアなファイル暗号化ツールとファイルフォーマットとRustのライブラリ。
 
 - [リポジトリ](https://github.com/sorairolake/abcrypt)
 - [ホームページ](https://sorairolake.github.io/abcrypt/)
@@ -142,7 +142,7 @@ RustのライブラリをPythonで利用できるようにするための言語�
 
 ## abcrypt-go
 
-abcrypt暗号化データフォーマットを実装したGoのパッケージ。
+[abcrypt暗号化データフォーマット](#abcrypt)を実装したGoのパッケージ。
 
 - [リポジトリ](https://github.com/sorairolake/abcrypt-go)
 - [Go Packages](https://pkg.go.dev/github.com/sorairolake/abcrypt-go)
@@ -157,7 +157,7 @@ Faviconを作成するためのコマンドラインユーティリティ。
 
 ## lzip-go
 
-lzip圧縮ファイルフォーマットの読み取りと書き込みに対応した完全にGoで書かれたパッケージ。
+[lzip圧縮ファイルフォーマット](https://www.nongnu.org/lzip/manual/lzip_manual.html#File-format)の読み取りと書き込みに対応した完全にGoで書かれたパッケージ。
 
 - [リポジトリ](https://github.com/sorairolake/lzip-go)
 - [Go Packages](https://pkg.go.dev/github.com/sorairolake/lzip-go)
