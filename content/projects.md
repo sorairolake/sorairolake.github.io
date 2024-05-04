@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-04-04T23:17:19+09:00
+lastmod = 2024-05-05T01:05:11+09:00
 draft = false
 description = ""
 summary = ""
@@ -161,3 +161,10 @@ Faviconを作成するためのコマンドラインユーティリティ。
 
 - [リポジトリ](https://github.com/sorairolake/lzip-go)
 - [Go Packages](https://pkg.go.dev/github.com/sorairolake/lzip-go)
+
+## gb3sum
+
+[BLAKE3](https://github.com/BLAKE3-team/BLAKE3)チェックサムの計算と検証をするためのコマンドラインユーティリティ。
+
+- [リポジトリ](https://github.com/sorairolake/gb3sum)
+- [Go Packages](https://pkg.go.dev/github.com/sorairolake/gb3sum)
