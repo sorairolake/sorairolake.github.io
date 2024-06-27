@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-05-05T01:05:11+09:00
+lastmod = 2024-06-27T20:23:37+09:00
 draft = false
 description = ""
 summary = ""
@@ -168,3 +168,17 @@ Faviconを作成するためのコマンドラインユーティリティ。
 
 - [リポジトリ](https://github.com/sorairolake/gb3sum)
 - [Go Packages](https://pkg.go.dev/github.com/sorairolake/gb3sum)
+
+## japanese-era-dataset
+
+[日本の元号](<https://ja.wikipedia.org/wiki/%E5%85%83%E5%8F%B7%E4%B8%80%E8%A6%A7_(%E6%97%A5%E6%9C%AC)>)のデータセット。
+
+- [リポジトリ](https://github.com/sorairolake/japanese-era-dataset)
+
+## ron-wasm
+
+[RON](https://github.com/ron-rs/ron)（Rusty Object Notation）をWasmやJavaScriptで利用できるようにするための言語バインディング。
+
+- [リポジトリ](https://github.com/sorairolake/ron-wasm)
+- [npm](https://www.npmjs.com/package/@sorairolake/ron-wasm)
+- [crates.io](https://crates.io/crates/ron-wasm)
