@@ -1,7 +1,7 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
-lastmod = 2024-05-09T20:47:58+09:00
+lastmod = 2024-06-27T20:01:43+09:00
 draft = false
 description = ""
 summary = ""
@@ -13,7 +13,7 @@ tags = [""]
 
 | サービス   | アカウント                                                 |
 | ---------- | ---------------------------------------------------------- |
-| X          | [@sorairolake](https://twitter.com/sorairolake)            |
+| X          | [@sorairolake](https://x.com/sorairolake)                  |
 | Misskey.io | [@sorairolake@misskey.io](https://misskey.io/@sorairolake) |
 
 ## メール
