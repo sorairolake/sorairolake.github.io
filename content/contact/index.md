@@ -1,7 +1,7 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
-lastmod = 2024-06-27T20:01:43+09:00
+lastmod = 2024-07-16T02:10:17+09:00
 draft = false
 description = ""
 summary = ""
@@ -11,10 +11,10 @@ tags = [""]
 
 ## SNS
 
-| サービス   | アカウント                                                 |
-| ---------- | ---------------------------------------------------------- |
-| X          | [@sorairolake](https://x.com/sorairolake)                  |
-| Misskey.io | [@sorairolake@misskey.io](https://misskey.io/@sorairolake) |
+| サービス  | アカウント                                                 |
+| --------- | ---------------------------------------------------------- |
+| X         | [@sorairolake](https://x.com/sorairolake)                  |
+| Fediverse | [@sorairolake@misskey.io](https://misskey.io/@sorairolake) |
 
 ## メール
 
