@@ -1,7 +1,7 @@
 +++
 title = "プロジェクト"
 date = 2022-08-09T14:58:46+09:00
-lastmod = 2024-06-27T20:23:37+09:00
+lastmod = 2024-07-16T01:45:03+09:00
 draft = false
 description = ""
 summary = ""
@@ -182,3 +182,10 @@ Faviconを作成するためのコマンドラインユーティリティ。
 - [リポジトリ](https://github.com/sorairolake/ron-wasm)
 - [npm](https://www.npmjs.com/package/@sorairolake/ron-wasm)
 - [crates.io](https://crates.io/crates/ron-wasm)
+
+## is-svg
+
+与えられたデータが[SVG](https://www.w3.org/Graphics/SVG/)画像か否かをテストするRustのライブラリ。
+
+- [リポジトリ](https://github.com/sorairolake/is-svg)
+- [crates.io](https://crates.io/crates/is-svg)
