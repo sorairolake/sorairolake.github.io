@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# SPDX-FileCopyrightText: None
+# SPDX-FileCopyrightText: 2023 Shun Sakai
 #
 # SPDX-License-Identifier: CC0-1.0
 
