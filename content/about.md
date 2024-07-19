@@ -7,6 +7,7 @@ description = ""
 summary = ""
 categories = [""]
 tags = [""]
+showDate = false
 +++
 
 ## プロフィール
