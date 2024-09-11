@@ -16,7 +16,7 @@ description = "SorairoLakeのホームページ"
 
 [params.author]
 name = "Shun Sakai"
-image = "images/profile.png"
+image = "images/profile.svg"
 links = [
   { x-twitter = "https://x.com/sorairolake" },
   { mastodon = "https://misskey.io/@sorairolake" },
