@@ -1,7 +1,7 @@
 +++
 title = "リンク"
 date = 2022-08-09T14:58:54+09:00
-lastmod = 2024-09-07T14:56:14+09:00
+lastmod = 2024-11-12T18:50:45+09:00
 draft = false
 description = ""
 summary = ""
@@ -17,3 +17,4 @@ showDate = false
 | GitLab                       | [@sorairolake](https://gitlab.com/sorairolake)                             |
 | Codeberg                     | [@sorairolake](https://codeberg.org/sorairolake)                           |
 | ウィキメディア・プロジェクト | [User:Momiji-Penguin](https://meta.wikimedia.org/wiki/User:Momiji-Penguin) |
+| Zenn                         | [SorairoLake](https://zenn.dev/sorairolake)                                |
