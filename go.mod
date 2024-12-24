@@ -6,4 +6,4 @@ module github.com/sorairolake/sorairolake.github.io
 
 go 1.16
 
-require github.com/jpanther/congo/v2 v2.9.0 // indirect
+require github.com/jpanther/congo/v2 v2.10.0 // indirect
