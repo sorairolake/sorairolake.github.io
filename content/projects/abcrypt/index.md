@@ -9,7 +9,7 @@ categories = [""]
 tags = [""]
 +++
 
-[Argon2](https://datatracker.ietf.org/doc/html/rfc9106)と[BLAKE2b-512-MAC](https://datatracker.ietf.org/doc/html/rfc7693)と[XChaCha20-Poly1305](https://datatracker.ietf.org/doc/html/draft-arciszewski-xchacha-03)を使用したシンプルでモダンでセキュアな暗号化のためのファイルフォーマットとその実装。
+[Argon2](https://datatracker.ietf.org/doc/html/rfc9106)と[BLAKE2b-512-MAC](https://datatracker.ietf.org/doc/html/rfc7693)と[XChaCha20-Poly1305](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-xchacha)を使用したシンプルでモダンでセキュアな暗号化のためのファイルフォーマットとその実装。
 
 - [リポジトリ](https://github.com/sorairolake/abcrypt)
 - [ホームページ](https://sorairolake.github.io/abcrypt/)
