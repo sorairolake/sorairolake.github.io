@@ -12,7 +12,7 @@
 image:{ci-badge}[CI,link={ci-url}]
 
 SorairoLake's home page, made with https://gohugo.io/[Hugo] and
-https://github.com/jpanther/congo[Congo].
+https://github.com/nunocoracao/blowfish[Blowfish].
 
 == URL
 

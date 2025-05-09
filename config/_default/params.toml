@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-colorScheme = "ocean"
+colorScheme = "blowfish"
 enableSearch = true
 
 [footer]

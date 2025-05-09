@@ -1,7 +1,7 @@
 +++
 title = "このウェブサイトについて"
 date = 2022-08-09T19:54:34+09:00
-lastmod = 2024-09-08T09:12:18+09:00
+lastmod = 2025-05-10T04:15:42+09:00
 draft = false
 description = ""
 summary = ""
@@ -12,7 +12,7 @@ showDate = false
 
 ## ソースコード
 
-[リポジトリ](https://github.com/sorairolake/sorairolake.github.io)
+{{< github repo="sorairolake/sorairolake.github.io" >}}
 
 ## ライセンス
 

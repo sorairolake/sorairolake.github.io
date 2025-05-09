@@ -1,7 +1,7 @@
 +++
 title = "csscolorparser-zig"
 date = 2025-04-24T15:13:27+09:00
-lastmod = 2025-04-29T20:26:20+09:00
+lastmod = 2025-05-10T04:23:56+09:00
 draft = false
 description = ""
 summary = "Zig向けのCSSの色を解析するライブラリ。"
@@ -13,4 +13,4 @@ tags = [""]
 
 このライブラリは[Rust](https://www.rust-lang.org/)の[`csscolorparser`](https://crates.io/crates/csscolorparser)クレートと[Go](https://go.dev/)の[`github.com/mazznoer/csscolorparser`](https://pkg.go.dev/github.com/mazznoer/csscolorparser)パッケージの両方から移植しています。
 
-- [リポジトリ](https://github.com/sorairolake/csscolorparser-zig)
+{{< github repo="sorairolake/csscolorparser-zig" >}}

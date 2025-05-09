@@ -35,3 +35,6 @@ pids
 
 # Dependency directories
 node_modules/
+
+# Files generated when generating the profile image
+assets/images/profile.png
