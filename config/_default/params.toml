@@ -16,6 +16,7 @@ showAuthor = false
 showPagination = false
 showReadingTime = false
 showTableOfContents = true
+showWordCount = false
 
 [list]
 showSummary = true
