@@ -1,7 +1,7 @@
 +++
 title = "私について"
 date = 2022-08-09T14:58:42+09:00
-lastmod = 2023-07-13T21:51:44+09:00
+lastmod = 2025-05-10T23:02:36+09:00
 draft = false
 description = ""
 summary = ""
@@ -40,14 +40,14 @@ showDate = false
 
 - [C#](https://learn.microsoft.com/ja-jp/dotnet/csharp/)
 - [Go](https://go.dev/)
+- [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org/)
+- [Zig](https://ziglang.org/)
 
 ### 普通
 
 - [Julia](https://julialang.org/)
 - [Perl](https://www.perl.org/)
-- [Python](https://www.python.org/)
-- [Zig](https://ziglang.org/)
 
 ## 環境
 
