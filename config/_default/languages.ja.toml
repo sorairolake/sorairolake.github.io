@@ -16,7 +16,7 @@ copyright = """\
 
 [params.author]
 name = "Shun Sakai"
-image = "images/profile.webp"
+image = "images/profile.svg"
 links = [
   { x-twitter = "https://x.com/sorairolake" },
   { mastodon = "https://misskey.io/@sorairolake" },

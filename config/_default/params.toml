@@ -4,6 +4,7 @@
 
 colorScheme = "blowfish"
 enableSearch = true
+disableImageOptimization = true
 
 [footer]
 showAppearanceSwitcher = true
