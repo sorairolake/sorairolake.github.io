@@ -36,5 +36,3 @@ showDate = false
 
 1.  [sorairolake.asc](sorairolake.asc)
 2.  [keys.openpgp.org](https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822)
-
-![openpgp4fprのQRコード](openpgp4fpr.svg "openpgp4fpr")
