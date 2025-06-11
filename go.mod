@@ -6,6 +6,4 @@ module github.com/sorairolake/sorairolake.github.io
 
 go 1.16
 
-require (
-	github.com/nunocoracao/blowfish/v2 v2.85.1 // indirect
-)
+require github.com/nunocoracao/blowfish/v2 v2.86.0 // indirect
