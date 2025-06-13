@@ -1,7 +1,7 @@
 +++
 title = "rzopfli"
 date = 2024-07-20T10:43:59+09:00
-lastmod = 2025-05-10T23:05:48+09:00
+lastmod = 2025-06-13T22:18:15+09:00
 draft = false
 description = ""
 summary = "Zopfliを使用する可逆データ圧縮ツール。"
@@ -13,4 +13,4 @@ tags = [""]
 
 コマンドラインの構文は`gzip`や`zstd`を参考にしており、いくつかのオプションはリファレンス実装に由来します。
 
-{{< github repo="sorairolake/rzopfli" >}}
+{{< github repo="sorairolake/rzopfli" showThumbnail=false >}}

@@ -1,7 +1,7 @@
 +++
 title = "public-data-license-lml"
 date = 2024-09-05T10:28:40+09:00
-lastmod = 2025-05-10T04:27:00+09:00
+lastmod = 2025-06-13T22:18:15+09:00
 draft = false
 description = ""
 summary = "軽量マークアップ言語による公共データ利用規約。"
@@ -13,4 +13,4 @@ tags = [""]
 
 [AsciiDoc](https://asciidoc.org/)、[CommonMark](https://commonmark.org/)で書かれたバージョンが利用できます。
 
-{{< github repo="sorairolake/public-data-license-lml" >}}
+{{< github repo="sorairolake/public-data-license-lml" showThumbnail=false >}}
