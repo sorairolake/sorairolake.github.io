@@ -5,21 +5,22 @@
 languageCode = "ja"
 languageName = "日本語"
 title = "SorairoLake"
+
+[params]
+description = "SorairoLakeのホームページ"
 copyright = """\
   &copy; 2021 Shun Sakai \
   &middot; \
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)\
   """
 
-[params]
-description = "SorairoLakeのホームページ"
-
 [params.author]
 name = "Shun Sakai"
 image = "images/profile.svg"
 links = [
   { x-twitter = "https://x.com/sorairolake" },
-  { mastodon = "https://misskey.io/@sorairolake" },
+  { fediverse = "https://misskey.io/@sorairolake" },
   { github = "https://github.com/sorairolake" },
   { gitlab = "https://gitlab.com/sorairolake" },
+  { codeberg = "https://codeberg.org/sorairolake" },
 ]

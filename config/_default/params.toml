@@ -2,8 +2,9 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-colorScheme = "ocean"
+colorScheme = "blowfish"
 enableSearch = true
+disableImageOptimization = true
 
 [footer]
 showAppearanceSwitcher = true
@@ -16,6 +17,7 @@ showAuthor = false
 showPagination = false
 showReadingTime = false
 showTableOfContents = true
+showWordCount = false
 
 [list]
 showSummary = true
