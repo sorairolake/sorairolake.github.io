@@ -1,10 +1,10 @@
 +++
 title = "qrcode-rust2"
 date = 2025-10-01T11:29:51+09:00
-lastmod = 2025-11-06T01:40:22+09:00
+lastmod = 2025-11-07T19:53:25+09:00
 draft = false
 description = ""
-summary = "Rust向けのQRコード、マイクロQRコード、rMQRコード符号化ライブラリ。"
+summary = "Rust向けのQRコード符号化ライブラリ。"
 categories = [""]
 tags = [""]
 +++
