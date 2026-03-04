@@ -19,8 +19,8 @@ showDate = false
 
 ## メール
 
-1.  <sorairolake@cock.li>
-2.  <sorairolake@protonmail.ch>
+1. <sorairolake@cock.li>
+2. <sorairolake@protonmail.ch>
 
 ## PGP公開鍵
 
@@ -34,5 +34,5 @@ showDate = false
 
 ### リンク
 
-1.  [sorairolake.asc](sorairolake.asc)
-2.  [keys.openpgp.org](https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822)
+1. [sorairolake.asc](sorairolake.asc)
+2. [keys.openpgp.org](https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822)
