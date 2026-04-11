@@ -1,7 +1,7 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
-lastmod = 2026-04-11T22:14:52+09:00
+lastmod = 2026-04-11T22:33:32+09:00
 draft = false
 description = ""
 summary = ""
@@ -33,5 +33,4 @@ showDate = false
 
 ### リンク
 
-1. [sorairolake.asc](sorairolake.asc)
-2. [keys.openpgp.org](https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822)
+[keys.openpgp.org](https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822)
