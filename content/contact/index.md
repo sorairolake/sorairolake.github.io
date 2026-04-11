@@ -1,7 +1,7 @@
 +++
 title = "連絡先"
 date = 2022-08-09T14:58:50+09:00
-lastmod = 2025-05-10T23:25:30+09:00
+lastmod = 2026-04-11T22:14:52+09:00
 draft = false
 description = ""
 summary = ""
@@ -19,8 +19,7 @@ showDate = false
 
 ## メール
 
-1. <sorairolake@cock.li>
-2. <sorairolake@protonmail.ch>
+<sorairolake@protonmail.ch>
 
 ## PGP公開鍵
 
