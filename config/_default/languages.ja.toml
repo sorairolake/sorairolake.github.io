@@ -8,11 +8,7 @@ title = "SorairoLake"
 
 [params]
 description = "SorairoLakeのホームページ"
-copyright = """\
-  &copy; 2021 Shun Sakai \
-  &middot; \
-  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)\
-  """
+copyright = "&copy; 2021 Shun Sakai"
 
 [params.author]
 name = "Shun Sakai"
